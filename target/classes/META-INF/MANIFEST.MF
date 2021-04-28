@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: JAI MAHAKAL
+Build-Jdk: 15.0.2
+Main-Class: com.divergent.schoolmanagementsystem.app.SchoolManagementSys
+ tem
+Created-By: Maven Integration for Eclipse
+
